@@ -1,0 +1,23 @@
+{
+  "name": "dt-money-api",
+  "version": "1.0.0",
+  "description": "Dt Money Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJonaw/Dt-Money-Api.git"
+  },
+  "keywords": [],
+  "author": "JJonaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJonaw/Dt-Money-Api/issues"
+  },
+  "homepage": "https://github.com/JJonaw/Dt-Money-Api#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
